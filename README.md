@@ -23,8 +23,8 @@ An Android application designed for online shopping, facilitating interaction be
 
 ## User Side Screenshots:
 ![User Screenshot 1](https://i.imgur.com/uTj659r.png)
-![User Screenshot 2](https://i.imgur.com/xjJrO8l.png)
-![User Screenshot 3](https://i.imgur.com/eqY68mb.png)
+![User Screenshot 2](https://i.imgur.com/aHps31R.png)
+![User Screenshot 3](https://i.imgur.com/8JdwdpF.png)
 
 ## Admin Side Screenshots:
 ![Admin Screenshot 1](https://i.imgur.com/YAv3ynZ.png)
